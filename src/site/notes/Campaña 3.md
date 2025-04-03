@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/campana-3/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/campana-3/"}
 ---
+
 
 ### Bienvenido
 Esta página está pensada para tener información accesible para los Jugadores y fungir como un diario Online.
