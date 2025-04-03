@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/campana-3/"}
+{"dg-publish":true,"permalink":"/campana-3/","tags":["gardenEntry"]}
 ---
+
 
 
 ### Bienvenido
